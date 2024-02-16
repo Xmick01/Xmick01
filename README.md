@@ -1,16 +1,13 @@
 # Hello, I'm Xarius 
 <a href="https://linkedin.com/in/xarius-mickens-564b3a171/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-Sure thing! Here it is in plain language:
 
 I graduated with a bachelor's in biology, but now I'm switching to cybersecurity. I got interested in technology and the problem-solving aspect of cybersecurity. My dedication involves continuing to learn new programming skills, supporting security awareness, and collaborating effectively to implement strong protective measures. I look forward to contributing to cybersecurity by upholding the highest ethical standards.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey from biology to technology has led me to develop an interest for cybersecurity, and I am now eager to transition into this field, specifically aiming for an entry-level Security Analyst and then move on to a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
