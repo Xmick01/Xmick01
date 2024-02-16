@@ -3,7 +3,9 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Sure thing! Here it is in plain language:
+
+I graduated with a bachelor's in biology, but now I'm switching to cybersecurity. I got interested in technology and enjoy solving tough problems. I'm excited to apply my skills to help protect digital systems and make a difference in cybersecurity.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
