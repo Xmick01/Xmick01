@@ -15,10 +15,10 @@ My journey from biology to technology has led me to develop an interest for cybe
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Xmick01/SOC-Automation-Project-">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
