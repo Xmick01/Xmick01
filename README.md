@@ -54,5 +54,5 @@ My journey from biology to technology has led me to develop an interest for cybe
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- [SOC Automation Project](https://github.com/Xmick01/SOC-Automation-Project-)
+- [Active Directory](https://github.com/Xmick01/Active-Directory-lab/blob/main/README.md) 
