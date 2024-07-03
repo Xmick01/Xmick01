@@ -9,19 +9,22 @@ I graduated with a bachelor's in biology, but now I'm switching to cybersecurity
 My journey from biology to technology has led me to develop an interest for cybersecurity, and I am now eager to transition into this field, specifically aiming for an entry-level Security Analyst and then move on to a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot">Honeypot</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+- Splunk
+- Wireshark
+- Nmap
+- Kali Linux
+- Metasploit
 
 ### Network
 <div>
@@ -44,15 +47,15 @@ My journey from biology to technology has led me to develop an interest for cybe
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity-FF0000?style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20IT-FF0000?style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Data%20Analytics-FF0000?style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python%20for%20Cybersecurity%20Specialization%20(Infosec)-FF0000?style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
 ## Projects
 - [SOC Automation Project](https://github.com/Xmick01/SOC-Automation-Project-)
-- [Active Directory](https://github.com/Xmick01/Active-Directory-lab/blob/main/README.md) 
+- [Active Directory](https://github.com/Xmick01/Active-Directory-lab/blob/main/README.md)
+- [Honeypot](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot)
+- [MITRE ATT&CK Framework](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project)
