@@ -6,7 +6,7 @@ I graduated with a bachelor's in biology, but now I'm switching to cybersecurity
 
 ## Objective
 
-I am now eager to transition into this field, specifically aiming for an entry-level Security Analyst and then move on to a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am now eager to transition into this field, specifically aiming for an entry-level security analyst role and then move on to a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
