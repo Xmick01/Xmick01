@@ -13,11 +13,20 @@ I am now eager to transition into this field, specifically aiming for an entry-l
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot">Honeypot</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
+| User and Group Management | <a href="https://github.com/Xmick01/Active-Directory-lab/blob/main/README.md">Active Directory Lab</a>|
+|DNS Integration | <a href="https://github.com/Xmick01/Active-Directory-lab/blob/main/README.md">Active Directory Lab</a>|
+| Threat Intelligence Analysis | <a href="https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project">MITRE ATT&CK</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot">Honeypot</a>|
+| Incident Response and Threat Analysis | <a href="https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot">Honeypot</a>|
+| Data Analysis and Visualization | <a href="https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot">Honeypot</a>|
+| System Administration and Automation | <a href="https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot">Honeypot</a>|
+
+
 
 ## Tools
 - Splunk
