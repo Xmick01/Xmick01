@@ -6,7 +6,7 @@ I graduated with a bachelor's in biology, but now I'm switching to cybersecurity
 
 ## Objective
 
-I am now eager to transition into this field, specifically aiming for an entry-level security analyst role and then move on to a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am eager to transition into this field, specifically aiming for an entry-level security analyst role and then move on to a Security Operations Center (SOC) role as a Tier 1 Analyst.
 
 ## Skills
 
@@ -17,7 +17,6 @@ I am now eager to transition into this field, specifically aiming for an entry-l
 | Incident Response Planning and Execution      | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Xmick01/SOC-Automation-Project-">SOC Automation Lab</a>|
 | User and Group Management | <a href="https://github.com/Xmick01/Active-Directory-lab/blob/main/README.md">Active Directory Lab</a>|
 |DNS Integration | <a href="https://github.com/Xmick01/Active-Directory-lab/blob/main/README.md">Active Directory Lab</a>|
 | Threat Intelligence Analysis | <a href="https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project">MITRE ATT&CK</a>|
@@ -25,6 +24,11 @@ I am now eager to transition into this field, specifically aiming for an entry-l
 | Incident Response and Threat Analysis | <a href="https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot">Honeypot</a>|
 | Data Analysis and Visualization | <a href="https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot">Honeypot</a>|
 | System Administration and Automation | <a href="https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot">Honeypot</a>|
+| Data Analysis | <a href="https://github.com/Xmick01/Basic-Home-Lab">Basic Home Lab</a>|
+| Threat Detection | <a href="https://github.com/Xmick01/Basic-Home-Lab">Basic Home Lab</a>|
+| Network Configuration | <a href="https://github.com/Xmick01/Basic-Home-Lab">Basic Home Lab</a>|
+| Malware Analysis | <a href="https://github.com/Xmick01/Basic-Home-Lab">Basic Home Lab</a>|
+
 
 
 
