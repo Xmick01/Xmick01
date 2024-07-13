@@ -59,3 +59,4 @@ My journey from biology to technology has led me to develop an interest for cybe
 - [Active Directory](https://github.com/Xmick01/Active-Directory-lab/blob/main/README.md)
 - [Honeypot](https://github.com/Xmick01/Deploying-and-Managing-a-T-Pot-Honeypot)
 - [MITRE ATT&CK Framework](https://github.com/Xmick01/MITRE-ATT-CK-Framework-Implementation-Project)
+- [Basic Home Lab](https://github.com/Xmick01/Basic-Home-Lab)
